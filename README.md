@@ -1,0 +1,2 @@
+# compressAllChar
+For Myanmar Education
